@@ -1,0 +1,9 @@
+123456 Shoaib          Rauf            20 12345678901 0 645938532 Shoaib.1
+213195 Sufiyaan        Usmani          18 03363778582 0 421940000 sufiyaan
+212186 Ahsan           Ashraf          18 03132135384 0 42279698  ahsan123
+213232 Muhammad        Rizwan          15 42343243242 0 234234    rizwan.2
+123456 Sufiyaan        Usmani          18 03363778582 0 200       sufiyaan
+124294 Ahsan           Ashraf          18 12343838485 0 23        ahsan   
+444100 Sufiyaan        Usmani          19 12345678987 0 0         sufiyaan
+100095 Qasim           Hasan           20 12345678987 0 0         qasim123
+100317 Qasim           Hasan           19 12345678659 0 0         qasim123
